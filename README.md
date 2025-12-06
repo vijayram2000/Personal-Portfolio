@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  <a href="#demo-movie_camera">Demo</a> •
   <a href="#features-sparkles">Features</a> •
   <a href="#installation-arrow_down">Installation</a> •
   <a href="#usage-joystick">Usage</a> •
@@ -32,19 +31,7 @@ A professional portfolio template built with **Next.js 16**, **React 19**, and *
 
 ---
 
-## Demo :movie_camera:
 
-<p align="center">
-  <img src="./public/image/screen.png" alt="Portfolio Screenshot" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://abusaid.netlify.app/" target="_blank">
-    <strong>🚀 View Live Demo</strong>
-  </a>
-</p>
-
----
 
 ## Features :sparkles:
 
@@ -578,16 +565,3 @@ pnpm install
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Support :coffee:
-
-- ⭐ [Star the repository](https://github.com/said7388/developer-portfolio/stargazers)
-- � [Report bugs](https://github.com/said7388/developer-portfolio/issues)
-- � [Suggest features](https://github.com/said7388/developer-portfolio/discussions)
-
----
-
-![GitHub stars](https://img.shields.io/github/stars/said7388/developer-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/said7388/developer-portfolio?style=social)
-![GitHub issues](https://img.shields.io/github/issues/said7388/developer-portfolio)
-![GitHub license](https://img.shields.io/github/license/said7388/developer-portfolio)
