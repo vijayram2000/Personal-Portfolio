@@ -66,11 +66,12 @@ function Education() {
                           <p className="text-base sm:text-xl mb-2 font-medium uppercase">
                             {education.title}
                           </p>
-                          <p className="text-sm sm:text-base">{education.institution}</p>
+                          <p className="text-sm sm:text-base mb-2">{education.institution}</p>
+                          <p className="text-xs sm:text-sm ">{education.percentage}</p>
                         </div>
                       </div>
                     </div>
-                  </GlowCard>
+                  </GlowCard> 
                 ))
               }
             </div>

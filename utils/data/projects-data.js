@@ -1,52 +1,29 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
-        role: 'Backend Developer',
+        name: 'NavForms - Bike & Car Rental Service Platform',
+        description: "Bike Rental Service, offering bikes and scooters at affordable prices. With our simplified booking process, you can rent a bike in advance. Selecting the desired duration and requirements, you can rent bikes on a daily, weekly, or monthly basis. With our excellent customer service, we also provide 24/7 roadside assistance to help in case of breakdowns or any issues during your journey. Rent your dream bike today and start creating unforgettable memories",
+        tools: ['React JS,Redux,Express,Node Js,MySQL'],
+        role: 'FullStack Developer',
         code: '',
         demo: '',
     },
     {
         id: 2,
-        name: 'Travel Agency App',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
-        role: 'Full Stack Developer',
+        name: 'BACK AT YOU - Market Place For House Selling',
+        description: 'This is a site for selling houses in the USA. The site is used to sell houses from people and this Real estate appraiser is ready to buy the houses regardless of the age of the home, damages, or what shape it"s in, they have some pages that explain the process for selling the houses and they placed some YouTube videos from the happy customers in the website and also this site has the blog section and it contains several blog posts with the details for selling the houses. People can easily contact the Real estate appraiser and sell their houses by using this website',
+        tools: ['React.js, Redux'],
+        role: 'Frontend Developer',
         code: '',
         demo: '',
     },
     {
         id: 3,
-        name: 'AI Powered Real Estate',
-        description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
-        tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
+        name: 'Benchmark Gensuite',
+        description: 'The first fully-embedded, enterprise-grade AI experience, with powerful native EHS management tools.Future-proof your operations with a trusted partner, helping global leaders navigate compliance, elevate performance, and adapt with confidence',
+        tools: ['React.js, Redux, Node.js, Express.js, PostgreSQL'],
         code: '',
         role: 'Full Stack Developer',
         demo: '',
-    },
-    {
-        id: 4,
-        name: 'Newsroom Management',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-        code: '',
-        demo: '',
-        role: 'Full Stack Developer',
     }
 ];
-
-
-// Do not remove any property.
-// Leave it blank instead as shown below
-
-// {
-//     id: 1,
-//     name: '',
-//     description: "",
-//     tools: [],
-//     role: '',
-//     code: '',
-//     demo: '',
-// },
